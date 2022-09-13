@@ -10,7 +10,7 @@
    
    # Métodos Disponíveis
    - init(dataset): Construtor da classe Apps, recebe como parâmetro o nome do dataset
-   - explore_data(start, end, rows_and_columns=True): retorna as linhas do dataset no intervalo especificado pelos pârametros "start" e "end". Quando row_and_columns = True, o número de linha e colunas do dataset é exibido
+   - explore_data(start, end, rows_and_columns=True): retorna as linhas do dataset no intervalo especificado pelos pârametros "start" e "end". Quando row_and_columns = True, o número de linhas e colunas do dataset é exibido
    - delete_row(index): deleta a linha no índice espeficado
    - remove_duplicate(): remove aplicativos duplicados no dataset.
    - clean_english(index): remove aplicativos que não estão em inglês do dataset
@@ -19,4 +19,4 @@
    - display_table(index): Exibe a tabela de frequência
 
  # Exemplo de uso:
-  Utilizando a solução inicial como base para demonstração de uso da biblioteca: 
+  Utilizando a solução inicial como base para demonstração de uso da biblioteca: [Exemplo](https://github.com/ClaudianoLeonardo/Apps/blob/main/Exemplo.ipynb)
