@@ -24,7 +24,7 @@ class Apps:
     def delete_row(self, number_row):
         del self.data[number_row]
 
-    def remove_duplicate(self, show_numbers_duplicate_removed=True ):
+    def remove_duplicate(self):
         reviews_max = {}
         for app in self.data:
             name = app[0]
