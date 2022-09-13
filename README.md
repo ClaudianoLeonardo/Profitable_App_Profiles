@@ -19,4 +19,4 @@
    - display_table(index): Exibe a tabela de frequência
 
  # Exemplo de uso:
-  Utilizando a solução inicial como base para demonstração de uso da biblioteca: [Exemplo](https://github.com/ClaudianoLeonardo/Apps/blob/main/Exemplo.ipynb)
+  Utilizando a solução inicial como base para demonstração de uso do módulo: [Exemplo](https://github.com/ClaudianoLeonardo/Apps/blob/main/Exemplo.ipynb)
